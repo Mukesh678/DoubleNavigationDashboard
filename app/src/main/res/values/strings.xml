@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Decider</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_profile">Profile</string>
+
+    <string name="tab_stream">Stream</string>
+    <string name="tab_messages">Messages</string>
+    <string name="tab_notifications">Notifications</string>
+    <string name="tab_photos">Photos</string>
+
+    <string name="title_section0">Customers</string>
+    <string name="title_section1">Products</string>
+    <string name="title_section2">Orders</string>
+    <string name="title_section3">Customer Details</string>
+    <string name="title_section4">Product Details</string>
+    <string name="title_section5">Order Details</string>
+
+
+    <string name="action_example">Example action</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_customer_name">Customer Name</string>
+    <string name="hint_customer_email">Customer Email</string>
+    <string name="hint_customer_phone">Customer Phone</string>
+    <string name="hint_customer_street_address">Street Address</string>
+    <string name="hint_customer_city">City</string>
+    <string name="hint_customer_state">State</string>
+    <string name="hint_customer_zip_code">Zip Code</string>
+    <string name="hint_customer_note">Note</string>
+    <string name="no_customer">You have not added any customer yet</string>
+</resources>
